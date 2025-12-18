@@ -1,9 +1,4 @@
 /*
-Dylan Phillips 
-T00750910 
-COMP 3141 
-Project 
-
 This header file declares a BasicCalculator class that provides methods for 
 performing common arithmetic operations and displaying a menu of these operations.
 
