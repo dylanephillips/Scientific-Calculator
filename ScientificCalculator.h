@@ -1,9 +1,4 @@
 /*
-Dylan Phillips 
-T00750910 
-COMP 3141 
-Project 
-
 This header file declares the ScientificCalculator class with constructor, destructor, 
 and member functions for common scientific calculations such as trigonometric functions, 
 exponentiation, logarithm and a menu display method.
