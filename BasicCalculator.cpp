@@ -1,9 +1,4 @@
 /*
-Dylan Phillips 
-T00750910 
-COMP 3141 
-Project 
-
 This class defines the BasicCalculator class methods, providing arithmetic 
 operations with input validation, menu display, and messages for object creation and destruction.
 
