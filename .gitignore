@@ -1,0 +1,15 @@
+*.o
+*.obj
+*.exe
+*.out
+*.gch
+
+
+*.vscode/
+*.idea/
+*.user
+*.suo
+*.ncb
+*.sdf
+.vcxproj
+*.DS_Store
