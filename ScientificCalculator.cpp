@@ -1,9 +1,4 @@
 /*
-Dylan Phillips 
-T00750910 
-COMP 3141 
-Project 
-
 This class defines the ScientificCalculator class methods to perform common scientific functions 
 such as trigonometric calculations, exponentiation, logarithm with error checking, and includes a menu 
 display. 
