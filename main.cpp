@@ -1,9 +1,4 @@
 /*
-Dylan Phillips 
-T00750910 
-COMP 3141 
-Project 
-
 This driver implements a user-interactive calculator that lets users select between basic and scientific modes, it
 performs various operations based on user input, and allows switching between modes or quitting without restarting the program.
 
